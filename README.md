@@ -1,4 +1,4 @@
-## Aluno do PROA, em treinamento para aprender desenvolvimento front-end e back-end.
+## Github do Pereira!
 
 <div>
 <a href="https://github.com/GabrielPanjos/github-readme-stats">
