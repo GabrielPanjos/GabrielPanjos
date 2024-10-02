@@ -1,5 +1,11 @@
 ## Github do Pereira!
 
+- 🎓 Atualmente Estudando no Instituto Proa.
+- 🎮 Apaixonado por jogos, tendo o sonho em criar um.
+- 🎻 Sou violinista e adoro a música.
+
+##
+
 <div>
 <a href="https://github.com/GabrielPanjos/github-readme-stats">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielPanjos&theme=dracula" />
