@@ -1,6 +1,6 @@
 ## Github do Pereira!
 
-- 🎓 Atualmente Estudando no Instituto Proa.
+- 🎓 Atualmente no primeiro semestre de ADS.
 - 🎮 Apaixonado por jogos, tendo o sonho em criar um.
 - 🎻 Sou violinista e adoro a música.
 
