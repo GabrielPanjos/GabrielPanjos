@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📘 Second-semester student in Systems Analysis and Development.</p>
+<p align="left">📘 Estudante do segundo semestre de Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">💻 Aspiring Full Stack JavaScript Developer, currently focused on learning and growing through hands-on projects.<br>🎮 Game enthusiast and violinist, blending creativity from both code</p>
+<p align="left">💻 Aspirante a Desenvolvedor Full Stack JavaScript, atualmente focado em aprender e crescer através de projetos práticos.<br>🎮 Entusiasta de jogos e violinista, unindo criatividade com código.</p>
 
 ###
 
-<h2 align="left">Contact</h2>
+<h2 align="left">Contato</h2>
 
 ###
 
@@ -28,11 +28,11 @@
 
 ###
 
-<h2 align="left">Currently learning:</h2>
+<h2 align="left">Atualmente aprendendo:</h2>
 
 ###
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Linguagens</h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">Frameworks/Libraries</h3>
+<h3 align="left">Frameworks/Bibliotecas</h3>
 
 ###
 
@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
 </div>
 
-<h3 align="left">Others</h3>
+<h3 align="left">Outros</h3>
 
 ###
 
@@ -78,7 +78,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
-<h3 align="left">Learning Goals / Basic Knowledge</h3>
+<h3 align="left">Objetivos de Aprendizado / Conhecimento Básico</h3>
 
 ###
 
