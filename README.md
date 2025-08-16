@@ -30,13 +30,14 @@
 
 <h2 align="left">Atualmente aprendendo:</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" alt="react logo" /> React
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="16" alt="tailwindcss logo" /> Tailwindcss
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" alt="nodejs logo" /> Node
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="16" alt="typescript logo" /> TypeScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" valign="middle" alt="react logo"/> React  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="20" valign="middle" alt="tailwindcss logo"/> Tailwindcss  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" valign="middle" alt="nodejs logo"/> Node  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" valign="middle" alt="typescript logo"/> TypeScript  
+
+###
+
+<h2 align="left">Tecnologias que utilizo:</h2>
 
 ###
 
@@ -50,7 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-
 </div>
 
 ###
