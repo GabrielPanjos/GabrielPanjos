@@ -30,10 +30,7 @@
 
 <h2 align="left">Atualmente aprendendo:</h2>
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" valign="middle" alt="react logo"/> React  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="20" valign="middle" alt="tailwindcss logo"/> Tailwindcss  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" valign="middle" alt="nodejs logo"/> Node  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" valign="middle" alt="typescript logo"/> TypeScript  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" valign="middle" alt="java logo"/> Java
 
 ###
 
