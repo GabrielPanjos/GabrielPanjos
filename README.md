@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📘 Estudante do segundo semestre de Análise e Desenvolvimento de Sistemas.</p>
+<p align="left">📘 Estudante de Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💻 Aspirante a Desenvolvedor Full Stack JavaScript, atualmente focado em aprender e crescer através de projetos práticos.<br>🎮 Entusiasta de jogos e violinista, unindo criatividade com código.</p>
+<p align="left">💻 Aspirante a Desenvolvedor Full Stack Java, atualmente focado em aprender e crescer através de projetos práticos.<br>🎮 Entusiasta de jogos e violinista, unindo criatividade com código.</p>
 
 ###
 
