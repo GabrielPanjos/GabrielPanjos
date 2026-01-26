@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💻 Aspirante a Desenvolvedor Full Stack Java, atualmente focado em aprender e crescer através de projetos práticos.<br>🎮 Entusiasta de jogos e violinista, unindo criatividade com código.</p>
+<p align="left">💻 Aspirante a Desenvolvedor FullStack, atualmente focado em back-end com Node.js. Aprendendo e crescer através de projetos práticos.<br>🎮 Entusiasta de jogos e violinista, unindo criatividade com código.</p>
 
 ###
 
@@ -25,12 +25,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielp.anjo/?next=%2F)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielp-anjos)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pereiradosanjosgabriel@gmail.com)
-
-###
-
-<h2 align="left">Atualmente aprendendo:</h2>
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" valign="middle" alt="java logo"/> Java
 
 ###
 
