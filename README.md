@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💻 Aspirante a Desenvolvedor FullStack, atualmente focado em back-end com Node.js. Aprendendo e crescer através de projetos práticos.<br>🎮 Entusiasta de jogos e violinista, unindo criatividade com código.</p>
+<p align="left">💻 Aspirante a Desenvolvedor BackEnd focado em Node.js. Aprendendo e crescer através de projetos práticos.<br>🎮 Entusiasta de jogos e violinista, unindo criatividade com código.</p>
 
 ###
 
