@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=gradient"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">GitHub do Pereira</h1>
 
 ###
