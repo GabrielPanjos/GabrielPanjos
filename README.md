@@ -73,7 +73,11 @@
 
 ###
 
-<p align="center">📘 Estudante de Análise e Desenvolvimento de Sistemas.<br>💻 Aspirante a Desenvolvedor FullStack atualmente focado em BackEnd com Node.js. Aprendendo e crescer através de projetos práticos.</p>
+<p align="center">
+📘 Estudante de Análise e Desenvolvimento de Sistemas.<br>
+💻 Aspirante a Desenvolvedor Full Stack, atualmente focado em Back-end com Node.js.<br>
+🚀 Aprendendo e evoluindo por meio de projetos práticos.
+</p>
 
 ###
 
