@@ -73,17 +73,13 @@
 
 ###
 
-<p align="center">📘 Estudante de Análise e Desenvolvimento de Sistemas.</p>
+<p align="center">📘 Estudante de Análise e Desenvolvimento de Sistemas.<br>💻 Aspirante a Desenvolvedor FullStack atualmente focado em BackEnd com Node.js. Aprendendo e crescer através de projetos práticos.</p>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GabrielPanjos&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
-
-###
-
-<p align="center">💻 Aspirante a Desenvolvedor BackEnd focado em Node.js. Aprendendo e crescer através de projetos práticos.<br>🎮 Entusiasta de jogos e violinista, unindo criatividade com código.</p>
 
 ###
 
