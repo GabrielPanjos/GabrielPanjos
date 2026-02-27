@@ -87,10 +87,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GabrielPanjos.GabrielPanjos&"  />
-</div>
-
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"
